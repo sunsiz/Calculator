@@ -1,1 +1,1 @@
-Calculator
+A QT Calculator test project.
